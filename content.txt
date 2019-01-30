@@ -1,0 +1,52 @@
+Hero:
+------------------------------------------------
+Good Product
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam earum rem, a
+neque laborum fugit. Nobis, facere aspernatur quasi quod, itaque est expedita error sapiente
+eos culpa officia corrupti nemo!
+
+
+
+Plans Section:
+------------------------------------------------
+Free
+$0.00 / mo
+Some quick example text explaining the plan.
+Sign Up
+
+Pro
+$10.00 / mo
+Some quick example text explaining the plan.
+Sign Up
+
+Enterprise
+$90.00 / mo
+Some quick example text explaining the plan.
+Sign Up
+
+
+
+About Section
+------------------------------------------------
+A Story about this Company
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil et neque amet eveniet quis nemo illo voluptatibus id sapiente. Laborum veritatis molestias blanditiis velit nobis hic vero et adipisci quibusdam.Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore similique nihil dolor neque exercitationem quo doloribus? At quam illum consectetur excepturi quis, quos suscipit eos, nobis ullam corrupti ipsa sed.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ad rerum excepturi quas laboriosam atque. Aspernatur iure asperiores error illum, amet fuga ipsum distinctio sunt quis dolore, ullam et corporis eligendi.
+
+
+
+Steps Section
+------------------------------------------------
+Step 1
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, dolorum autem! Ratione assumenda commodi perspiciatis distinctio vero, quod culpa eius est repellendus fuga quisquam aspernatur eveniet tenetur veniam rerum quidem!
+
+Step 2
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, dolorum autem! Ratione assumenda commodi perspiciatis distinctio vero, quod culpa eius est repellendus fuga quisquam aspernatur eveniet tenetur veniam rerum quidem!
+
+Step 3
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, dolorum autem! Ratione assumenda commodi perspiciatis distinctio vero, quod culpa eius est repellendus fuga quisquam aspernatur eveniet tenetur veniam rerum quidem!
+
+Step 4
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, dolorum autem! Ratione assumenda commodi perspiciatis distinctio vero, quod culpa eius est repellendus fuga quisquam aspernatur eveniet tenetur veniam rerum quidem!
+
+
+
